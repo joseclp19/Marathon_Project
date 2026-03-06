@@ -1,4 +1,3 @@
-# Marathon_Project
 🏃‍♂️ Marathon Performance & Boston Qualification Analysis (2024)
 📌 Project Overview
 This project provides a comprehensive end-to-end data analysis of global marathon results from 2024. The primary goal is to identify patterns in runner performance and determine which races offer the highest probability of achieving a Boston Marathon Qualification (BQ).
